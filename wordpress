@@ -1,0 +1,4 @@
+
+Use to fix problem cannot create directory when installing theme. 
+
+chmod 777 -R wp-content/
